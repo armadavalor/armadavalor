@@ -51,6 +51,8 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 | [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) | [Correct RVAs for 16 KB aligned ELF](https://github.com/SamboyCoding/Cpp2IL/pull/624) |
 | [netfox](https://github.com/foxssake/netfox) | [No crash on noray connect error reply](https://github.com/foxssake/netfox/pull/666) |
 | [LitMotion](https://github.com/annulusgames/LitMotion) | [First motion after Clear() no longer ends in one frame](https://github.com/annulusgames/LitMotion/pull/303) |
+| [Nez](https://github.com/prime31/Nez) | [Case-insensitive DebugConsole commands](https://github.com/prime31/Nez/pull/920) |
+| [SerializedDictionary](https://github.com/ayellowpaper/SerializedDictionary) | [Remove(key, out value) keeps the serialized list in sync](https://github.com/ayellowpaper/SerializedDictionary/pull/22) |
 
 [All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
 
