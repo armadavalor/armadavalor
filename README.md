@@ -58,6 +58,8 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 | [DarkRift](https://github.com/DarkRiftNetworking/DarkRift) | [Unity server no longer touches a disposed server after Close](https://github.com/DarkRiftNetworking/DarkRift/pull/190) |
 | [Entitas](https://github.com/sschmid/Entitas) | [Removed systems also leave DebugSystems](https://github.com/sschmid/Entitas/pull/1100) |
 | [Morpeh ECS](https://github.com/scellecs/morpeh) | [GetWorld() returns null for an invalid entity](https://github.com/scellecs/morpeh/pull/254) |
+| [Nakama JS client](https://github.com/heroiclabs/nakama-js) | [Clear socket send timeout on response](https://github.com/heroiclabs/nakama-js/pull/223) |
+| [Nakama Godot client](https://github.com/heroiclabs/nakama-godot) | [restore_session accepts a refresh token](https://github.com/heroiclabs/nakama-godot/pull/234) |
 
 [All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
 
