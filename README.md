@@ -1,0 +1,33 @@
+# Hi, I'm Tarık 👋
+
+Unity & C# game developer who also works on multiplayer networking and open-source tooling.
+
+## 🎮 Games
+
+- **[Wobbly-Mayhem](https://github.com/armadavalor/Wobbly-Mayhem)** — Unity game made with team U42 ([trailer](https://youtu.be/Yj-cYXYll5I))
+- **[aigamejam](https://github.com/armadavalor/aigamejam)** — Unity demo built for an AI game jam
+
+## 🌐 Unity / netcode open-source contributions
+
+| Project | What |
+|---|---|
+| [Riptide](https://github.com/RiptideNetworking/Riptide) | [TcpClient socket buffer size constructor](https://github.com/RiptideNetworking/Riptide/pull/185) |
+| [Nakama .NET / Unity client](https://github.com/heroiclabs/nakama-dotnet) | [Recursion depth limit for the JSON parser](https://github.com/heroiclabs/nakama-dotnet/pull/245) |
+| [Colyseus Unity SDK](https://github.com/colyseus/colyseus-unity-sdk) | [Clear error on schema mismatch](https://github.com/colyseus/colyseus-unity-sdk/pull/272) |
+| [LiteNetLib](https://github.com/RevenantX/LiteNetLib) | [Bounds checks for NetDataReader Peek methods](https://github.com/RevenantX/LiteNetLib/pull/618) |
+| [R3](https://github.com/Cysharp/R3) | [Type inference for To*ReactiveProperty()](https://github.com/Cysharp/R3/pull/409) |
+| [lightyear](https://github.com/cBournhonesque/lightyear) | [Rollback snap fix](https://github.com/cBournhonesque/lightyear/pull/1809), [fragment size limit](https://github.com/cBournhonesque/lightyear/pull/1808) |
+| [VContainer](https://github.com/hadashiA/VContainer) | [Docs: empty collection resolution](https://github.com/hadashiA/VContainer/pull/867) |
+| [GameCI CLI](https://github.com/game-ci/cli) | [Quote-aware customParameters for Unity builds](https://github.com/game-ci/cli/pull/303) |
+| [GameCI docs](https://github.com/game-ci/documentation) | [Fix Unity log collection troubleshooting](https://github.com/game-ci/documentation/pull/594) |
+| [ZString](https://github.com/Cysharp/ZString) | [StringSyntax on format-string parameters](https://github.com/Cysharp/ZString/pull/154) |
+
+[All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
+
+## 🛠️ Other projects
+
+- **[WinKnife](https://github.com/armadavalor/WinKnife)** — open-source Windows toolkit (Rust + Tauri): analyze first, never delete without consent, everything reversible.
+
+## Stack
+
+Unity · C# · .NET · Rust · TypeScript
