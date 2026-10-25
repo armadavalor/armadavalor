@@ -54,6 +54,7 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 | [Nez](https://github.com/prime31/Nez) | [Case-insensitive DebugConsole commands](https://github.com/prime31/Nez/pull/920) |
 | [SerializedDictionary](https://github.com/ayellowpaper/SerializedDictionary) | [Remove(key, out value) keeps the serialized list in sync](https://github.com/ayellowpaper/SerializedDictionary/pull/22) |
 | [bevy_replicon](https://github.com/simgine/bevy_replicon) | [No out-of-bounds read across Buf segments](https://github.com/simgine/bevy_replicon/pull/786) |
+| [Colyseus Proxy](https://github.com/colyseus/proxy) | [Return 400 instead of crashing on invalid URLs](https://github.com/colyseus/proxy/pull/38) |
 
 [All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
 
