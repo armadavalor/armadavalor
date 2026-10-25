@@ -39,6 +39,8 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 | [ZLinq](https://github.com/Cysharp/ZLinq) | [string.Join extension members](https://github.com/Cysharp/ZLinq/pull/270) |
 | [QFramework](https://github.com/liangxiegame/QFramework) | [GZip compression level fix](https://github.com/liangxiegame/QFramework/pull/158) |
 | [Arch ECS](https://github.com/genaray/Arch) | [Fix TryGet by ComponentType for struct components](https://github.com/genaray/Arch/pull/320) |
+| [Reflex](https://github.com/gustavopsantos/Reflex) | [Array pool keeps expanded buckets](https://github.com/gustavopsantos/Reflex/pull/158) |
+| [Tri-Inspector](https://github.com/codewriter-packages/Tri-Inspector) | [SceneObjectsOnly accepts children of the inspected prefab](https://github.com/codewriter-packages/Tri-Inspector/pull/249) |
 
 [All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
 
