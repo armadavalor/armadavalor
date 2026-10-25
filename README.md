@@ -37,6 +37,7 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 | [ObservableCollections](https://github.com/Cysharp/ObservableCollections) | [ObserveCountChanged no longer drops counts](https://github.com/Cysharp/ObservableCollections/pull/140) |
 | [MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) | [Missing Unity .meta in v2.x](https://github.com/MessagePack-CSharp/MessagePack-CSharp/pull/2314) |
 | [ZLinq](https://github.com/Cysharp/ZLinq) | [string.Join extension members](https://github.com/Cysharp/ZLinq/pull/270) |
+| [QFramework](https://github.com/liangxiegame/QFramework) | [GZip compression level fix](https://github.com/liangxiegame/QFramework/pull/158) |
 
 [All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
 
