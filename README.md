@@ -53,6 +53,7 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 | [LitMotion](https://github.com/annulusgames/LitMotion) | [First motion after Clear() no longer ends in one frame](https://github.com/annulusgames/LitMotion/pull/303) |
 | [Nez](https://github.com/prime31/Nez) | [Case-insensitive DebugConsole commands](https://github.com/prime31/Nez/pull/920) |
 | [SerializedDictionary](https://github.com/ayellowpaper/SerializedDictionary) | [Remove(key, out value) keeps the serialized list in sync](https://github.com/ayellowpaper/SerializedDictionary/pull/22) |
+| [bevy_replicon](https://github.com/simgine/bevy_replicon) | [No out-of-bounds read across Buf segments](https://github.com/simgine/bevy_replicon/pull/786) |
 
 [All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
 
