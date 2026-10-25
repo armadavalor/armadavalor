@@ -41,6 +41,14 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 | [Arch ECS](https://github.com/genaray/Arch) | [Fix TryGet by ComponentType for struct components](https://github.com/genaray/Arch/pull/320) |
 | [Reflex](https://github.com/gustavopsantos/Reflex) | [Array pool keeps expanded buckets](https://github.com/gustavopsantos/Reflex/pull/158) |
 | [Tri-Inspector](https://github.com/codewriter-packages/Tri-Inspector) | [SceneObjectsOnly accepts children of the inspected prefab](https://github.com/codewriter-packages/Tri-Inspector/pull/249) |
+| [Friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) | [Keep component index in sync with CommandBuffer](https://github.com/friflo/Friflo.Engine.ECS/pull/138) |
+| [MoonSharp](https://github.com/moonsharp-devs/moonsharp) | [CLR callback null returns nil](https://github.com/moonsharp-devs/moonsharp/pull/354), [formatted multi-key error](https://github.com/moonsharp-devs/moonsharp/pull/355) |
+| [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) | [CallResult can be re-armed from its handler](https://github.com/rlabrecque/Steamworks.NET/pull/799) |
+| [Eflatun.SceneReference](https://github.com/starikcetin/Eflatun.SceneReference) | [Save scene changes to the active build profile](https://github.com/starikcetin/Eflatun.SceneReference/pull/132) |
+| [scene-ref-attribute](https://github.com/KyleBanks/scene-ref-attribute) | [Scene refs stay within the component's scene](https://github.com/KyleBanks/scene-ref-attribute/pull/43) |
+| [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | [tests-run filter count matches Unity](https://github.com/IvanMurzak/Unity-MCP/pull/1068) |
+| [bepuphysics2](https://github.com/bepu/bepuphysics2) | [Fix NRE removing fallback-batch constraints](https://github.com/bepu/bepuphysics2/pull/428) |
+| [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) | [Correct RVAs for 16 KB aligned ELF](https://github.com/SamboyCoding/Cpp2IL/pull/624) |
 
 [All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
 
