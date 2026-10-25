@@ -38,6 +38,7 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 | [MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) | [Missing Unity .meta in v2.x](https://github.com/MessagePack-CSharp/MessagePack-CSharp/pull/2314) |
 | [ZLinq](https://github.com/Cysharp/ZLinq) | [string.Join extension members](https://github.com/Cysharp/ZLinq/pull/270) |
 | [QFramework](https://github.com/liangxiegame/QFramework) | [GZip compression level fix](https://github.com/liangxiegame/QFramework/pull/158) |
+| [Arch ECS](https://github.com/genaray/Arch) | [Fix TryGet by ComponentType for struct components](https://github.com/genaray/Arch/pull/320) |
 
 [All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
 
