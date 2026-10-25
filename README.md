@@ -49,6 +49,7 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 | [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | [tests-run filter count matches Unity](https://github.com/IvanMurzak/Unity-MCP/pull/1068) |
 | [bepuphysics2](https://github.com/bepu/bepuphysics2) | [Fix NRE removing fallback-batch constraints](https://github.com/bepu/bepuphysics2/pull/428) |
 | [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) | [Correct RVAs for 16 KB aligned ELF](https://github.com/SamboyCoding/Cpp2IL/pull/624) |
+| [netfox](https://github.com/foxssake/netfox) | [No crash on noray connect error reply](https://github.com/foxssake/netfox/pull/666) |
 
 [All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
 
