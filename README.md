@@ -1,4 +1,4 @@
-# Hi, I'm Tarık 👋
+# sup gamer, I'm armada 
 
 Unity & C# game developer who also works on multiplayer networking and open-source tooling.
 
