@@ -18,7 +18,7 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 | [R3](https://github.com/Cysharp/R3) | [Type inference for To*ReactiveProperty()](https://github.com/Cysharp/R3/pull/409) |
 | [lightyear](https://github.com/cBournhonesque/lightyear) | [Rollback snap fix](https://github.com/cBournhonesque/lightyear/pull/1809), [fragment size limit](https://github.com/cBournhonesque/lightyear/pull/1808) |
 | [VContainer](https://github.com/hadashiA/VContainer) | [Docs: empty collection resolution](https://github.com/hadashiA/VContainer/pull/867) |
-| [GameCI CLI](https://github.com/game-ci/cli) | [Quote-aware customParameters for Unity builds](https://github.com/game-ci/cli/pull/303) |
+| [GameCI CLI](https://github.com/game-ci/cli) | [Quote-aware customParameters for Unity builds](https://github.com/game-ci/cli/pull/303), [redact secrets in streamed output](https://github.com/game-ci/cli/pull/304) |
 | [GameCI docs](https://github.com/game-ci/documentation) | [Fix Unity log collection troubleshooting](https://github.com/game-ci/documentation/pull/594) |
 | [ZString](https://github.com/Cysharp/ZString) | [StringSyntax on format-string parameters](https://github.com/Cysharp/ZString/pull/154) |
 | [Mirror](https://github.com/MirrorNetworking/Mirror) | [Return unbatcher writers to the pool on disconnect](https://github.com/MirrorNetworking/Mirror/pull/4132) |
