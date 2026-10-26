@@ -8,6 +8,14 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 - **[Wobbly-Mayhem](https://github.com/armadavalor/Wobbly-Mayhem)** — Unity game made with team U42 ([trailer](https://youtu.be/Yj-cYXYll5I))
 -
 
+## 🛠️ Other projects
+
+- **[WinKnife](https://github.com/armadavalor/WinKnife)** — open-source Windows toolkit (Rust + Tauri): analyze first, never delete without consent, everything reversible.
+
+## Stack
+
+Unity · C# · .NET · Rust · TypeScript · Python
+
 ## 🌐 Unity / netcode open-source contributions
 
 | Project | What |
@@ -64,10 +72,4 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 
 [All my pull requests →](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr)
 
-## 🛠️ Other projects
 
-- **[WinKnife](https://github.com/armadavalor/WinKnife)** — open-source Windows toolkit (Rust + Tauri): analyze first, never delete without consent, everything reversible.
-
-## Stack
-
-Unity · C# · .NET · Rust · TypeScript
