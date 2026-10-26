@@ -14,7 +14,7 @@ Unity & C# game developer who also works on multiplayer networking and open-sour
 
 ## Stack
 
-Unity · C# · .NET · Rust · TypeScript · Python
+Unity· Godot(Learning) · Roblox Studio(Learning) | C# · .NET · Rust · TypeScript · Python
 
 ## 🌐 Unity / netcode open-source contributions
 
