@@ -5,16 +5,16 @@ unity & C# game developer/designer who also works on multiplayer networking and 
 ##  gaming
 
 - **[[yazbirkelime](https://yazbirkelime.com/)** - yazbirkelime (writeaword) is a real-time, cross-platform all-Turkish (+EN soon) word party game that you can play with your friends at the same time.
-- **[Wobbly-Mayhem](https://github.com/armadavalor/Wobbly-Mayhem)** — Unity game made with team U42 ([trailer](https://youtu.be/Yj-cYXYll5I))
+- **[Wobbly-Mayhem](https://github.com/armadavalor/Wobbly-Mayhem)**  Unity game made with team U42 ([trailer](https://youtu.be/Yj-cYXYll5I))
 - +more soon
 
 ##  side projects
 
-- **[WinKnife](https://github.com/armadavalor/WinKnife)** — open-source Windows toolkit (Rust + Tauri): analyze first, never delete without consent, everything reversible.
+- **[WinKnife](https://github.com/armadavalor/WinKnife)**  open-source Windows toolkit (Rust + Tauri): analyze first, never delete without consent, everything reversible.
 
 ## stack
 
-Unity· Godot(Learning) · Roblox Studio(Learning) | C# · .NET · Rust · TypeScript · Python
+Unity· Godot (Learning) · Roblox Studio (Learning) | C# · .NET · Rust · TypeScript · Python
 
 ##  unity / netcode open-source contributions
 
