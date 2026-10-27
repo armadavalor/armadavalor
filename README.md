@@ -4,7 +4,7 @@ unity & C# game developer/designer who also works on multiplayer networking and 
 
 ##  gaming
 
-- **[[yazbirkelime](https://yazbirkelime.com/)** - yazbirkelime (writeaword) is a real-time, cross-platform all-Turkish (+EN soon) word party game that you can play with your friends at the same time.
+- **[yazbirkelime](https://yazbirkelime.com/)**  yazbirkelime (writeaword) is a real-time, cross-platform all-Turkish (+EN soon) word party game that you can play with your friends at the same time.
 - **[Wobbly-Mayhem](https://github.com/armadavalor/Wobbly-Mayhem)**  Unity game made with team U42 ([trailer](https://youtu.be/Yj-cYXYll5I))
 - +more soon
 
