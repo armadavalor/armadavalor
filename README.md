@@ -2,8 +2,7 @@
 
 
 
-a hustler fella who is a translator & unity game developer. 
-have a passion for building real-time multiplayer games, also building and contributing open-source projects along the way.  
+a hustler fella, translator, and unity game developer. i have a passion for building real-time multiplayer games, and i actively contribute to open-source projects along the way.
 
 ## stack
 
