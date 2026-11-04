@@ -1,12 +1,13 @@
 # sup gamer, I'm armada
 
-a hustler fella,
 
-Translator & Unity, C# game developer who has a passion for building real-time multiplayer games, also building and contributing open-source projects along the way.  
+
+a hustler fella who is a translator & unity game developer. 
+have a passion for building real-time multiplayer games, also building and contributing open-source projects along the way.  
 
 ## stack
 
-**Game dev** &nbsp;![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat&logo=robloxstudio&logoColor=white) ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=lua&logoColor=white) ![Godot](https://img.shields.io/badge/Godot%20(learning)-478CBF?style=flat&logo=godotengine&logoColor=white)
+**game dev** &nbsp;![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat&logo=robloxstudio&logoColor=white) ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=lua&logoColor=white) ![Godot](https://img.shields.io/badge/Godot%20(learning)-478CBF?style=flat&logo=godotengine&logoColor=white)
 
 **languages** &nbsp;![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat)
 
