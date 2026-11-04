@@ -1,6 +1,8 @@
 # sup gamer, I'm armada
 
-Unity & C# game developer who builds real-time multiplayer games, ships a Rust desktop toolkit, and fixes bugs in the open-source tools I use every day: nushell, uutils, MessagePack, NuGetForUnity, LiteNetLib and more.
+a hustler fella,
+
+Translator & Unity, C# game developer who has a passion for building real-time multiplayer games, also building and contributing open-source projects along the way.  
 
 ## stack
 
