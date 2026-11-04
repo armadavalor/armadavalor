@@ -23,18 +23,18 @@ Translator & Unity, C# game developer who has a passion for building real-time m
 | **Deephaul** · in development | Co-op Roblox digging game: dig up fossils and build your own park. | Luau · Rojo |
 | **[Wobbly-Mayhem](https://github.com/armadavalor/Wobbly-Mayhem)** | Unity game made with team U42 ([trailer](https://youtu.be/Yj-cYXYll5I)). | Unity · C# |
 
-## open-source highlights
+## contributions
 
-| Project | ★ | Merged fix |
-|---|---:|---|
-| [odysseus](https://github.com/odysseus-dev/odysseus) | 95.1k | [Open the effect journal in binary mode on Windows](https://github.com/odysseus-dev/odysseus/pull/6811) |
-| [nushell](https://github.com/nushell/nushell) | 40.8k | [`cd d:` resolves drive-relative paths like cmd](https://github.com/nushell/nushell/pull/19332), [external args containing `...`](https://github.com/nushell/nushell/pull/19333) |
-| [uutils/coreutils](https://github.com/uutils/coreutils) | 24.3k | [`ln`: Windows-style separators in symlink targets](https://github.com/uutils/coreutils/pull/15701) |
-| [MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) | 6.8k | [Missing .meta file in the Unity package](https://github.com/MessagePack-CSharp/MessagePack-CSharp/pull/2314) |
-| [ZLinq](https://github.com/Cysharp/ZLinq) | 5.3k | [C# 14 `string.Join` extension members](https://github.com/Cysharp/ZLinq/pull/270) |
-| [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.6k | [Combine assembly, group and method filters when counting tests](https://github.com/IvanMurzak/Unity-MCP/pull/1068) |
-| [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) | 4.6k | [CLI restore when a package is only in a later source](https://github.com/GlitchEnzo/NuGetForUnity/pull/769) |
-| [LiteNetLib](https://github.com/RevenantX/LiteNetLib) | 3.6k | [Bounds checks for NetDataReader Peek methods](https://github.com/RevenantX/LiteNetLib/pull/618) |
-| [lightyear](https://github.com/cBournhonesque/lightyear) | 1.2k | [Rollback snap fix](https://github.com/cBournhonesque/lightyear/pull/1809), [fragment size limit](https://github.com/cBournhonesque/lightyear/pull/1808) |
+| Project | Merged fix |
+|---|---|
+| [odysseus](https://github.com/odysseus-dev/odysseus) | [Open the effect journal in binary mode on Windows](https://github.com/odysseus-dev/odysseus/pull/6811) |
+| [nushell](https://github.com/nushell/nushell) | [`cd d:` resolves drive-relative paths like cmd](https://github.com/nushell/nushell/pull/19332), [external args containing `...`](https://github.com/nushell/nushell/pull/19333) |
+| [uutils/coreutils](https://github.com/uutils/coreutils) | [`ln`: Windows-style separators in symlink targets](https://github.com/uutils/coreutils/pull/15701) |
+| [MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) | [Missing .meta file in the Unity package](https://github.com/MessagePack-CSharp/MessagePack-CSharp/pull/2314) |
+| [ZLinq](https://github.com/Cysharp/ZLinq) | [C# 14 `string.Join` extension members](https://github.com/Cysharp/ZLinq/pull/270) |
+| [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | [Combine assembly, group and method filters when counting tests](https://github.com/IvanMurzak/Unity-MCP/pull/1068) |
+| [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) | [CLI restore when a package is only in a later source](https://github.com/GlitchEnzo/NuGetForUnity/pull/769) |
+| [LiteNetLib](https://github.com/RevenantX/LiteNetLib) | [Bounds checks for NetDataReader Peek methods](https://github.com/RevenantX/LiteNetLib/pull/618) |
+| [lightyear](https://github.com/cBournhonesque/lightyear) | [Rollback snap fix](https://github.com/cBournhonesque/lightyear/pull/1809), [fragment size limit](https://github.com/cBournhonesque/lightyear/pull/1808) |
 
 **[See all contributions →](CONTRIBUTIONS.md)**
