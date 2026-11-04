@@ -29,7 +29,7 @@ Live lists: [merged](https://github.com/pulls?q=author%3Aarmadavalor+is%3Apr+is%
 | [Redot-Engine/Redot-Documentation](https://github.com/Redot-Engine/Redot-Documentation) | [Clarify that the asset library is Godot's](https://github.com/Redot-Engine/Redot-Documentation/pull/61)<br>[docs: explain that virtual functions are also called callbacks](https://github.com/Redot-Engine/Redot-Documentation/pull/62) |
 | [SoftStoneDevelop/StringBuilderArray](https://github.com/SoftStoneDevelop/StringBuilderArray) | [Fix IndexOutOfRangeException in GetIndex](https://github.com/SoftStoneDevelop/StringBuilderArray/pull/5) |
 
-## In review (77 PRs, 65 repos)
+## In review
 
 | Project | Pull requests |
 |---|---|
